@@ -2,7 +2,7 @@
 title: "The Degradation of TTC: Analyzing Delays in Toronto's Subway Service"
 author: "Anannay Sood"
 date: today
-thanks: "Code and data available at https://github.com/AnannayS/STA302_Paper1"
+thanks: "Code and data available at https://github.com/AnannayS/TTC_Subway_Delay_Analysis"
 format: pdf
 editor: visual
 abstract: "This paper presents a data-driven analysis of the Toronto Transit Commission's subway delays from 2018 to 2023. It highlights a significant increase in delay occurrences, particularly post-COVID-19, with the severity of delays remaining stable but some exceeding eight hours. The study focuses on the Yonge-University and Bloor-Danforth lines, identifying passenger disorderliness and crowding as common delay causes. It concludes with insights into potential overcrowding and infrastructural issues, especially on the Yonge-University line."
